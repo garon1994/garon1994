@@ -1,3 +1,5 @@
+# 🌐 Frontend fejlesztő
+
 ## 🔧 Készségek és technológiák
 
 ### **Nyelvek**
