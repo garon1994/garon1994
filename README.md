@@ -1,9 +1,8 @@
 # Frontend Engineer
+---
 
 ## 🌟 About Me  
 I am a **Frontend Engineer** with over 5 years of experience working with the technologies listed below. 🚀
-
----
 
 ## 🔧 Technologies
 
