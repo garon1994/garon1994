@@ -2,8 +2,8 @@
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-line.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-line.svg">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width="30">
     </picture>
 </p>
 
