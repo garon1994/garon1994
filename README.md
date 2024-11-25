@@ -1,4 +1,4 @@
-# 🌐 Frontend developer from ![Magyar Zászló](https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Hungary.svg)
+# 🌐 Frontend developer from ![Magyar Zászló](https://img.icons8.com/ios/452/hungary.png)
 
 ---
 
