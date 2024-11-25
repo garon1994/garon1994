@@ -1,4 +1,4 @@
-# 🌐 Frontend developer from ![Magyar Zászló](https://img.icons8.com/?size=40&id=15535&format=png&color=000000)
+# 🌐 Frontend developer from <img src="https://img.icons8.com/?size=40&id=15535&format=png&color=000000" alt="Magyar Zászló" style="vertical-align: middle;" />
 
 ---
 
