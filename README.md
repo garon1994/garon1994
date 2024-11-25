@@ -5,7 +5,7 @@ I am a **Frontend Engineer** with over 5 years of experience working with the te
 
 ---
 
-## 🔧 Skills & Technologies
+## 🔧 Technologies
 
 ### **Languages**
 <p>
