@@ -1,9 +1,10 @@
 <h3 align="center">Frontend developer</h3>
 
-<p align="left">
-  <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg">
-</picture>
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
