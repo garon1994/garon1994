@@ -1,4 +1,4 @@
-# 🌐 Frontend developer from ![Magyar Zászló]([https://img.icons8.com/ios/452/hungary.png](https://img.icons8.com/?size=100&id=15535&format=png&color=000000))
+# 🌐 Frontend developer from ![Magyar Zászló](https://img.icons8.com/?size=100&id=15535&format=png&color=000000)
 
 ---
 
