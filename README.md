@@ -1,13 +1,13 @@
-# 🌐 Frontend fejlesztő
+# 🌐 Frontend Developer
 
 ## 🌟 About Me
 Hello! I'm a passionate **Frontend Developer** with a knack for building interactive, user-friendly web applications. I thrive on turning complex problems into elegant solutions using modern web technologies. 🚀
 
 ---
 
-## 🔧 Készségek és technológiák
+## 🔧 Skills & Technologies
 
-### **Nyelvek**
+### **Languages**
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
@@ -16,7 +16,7 @@ Hello! I'm a passionate **Frontend Developer** with a knack for building interac
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### **Keretekrendszerek és könyvtárak**
+### **Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
@@ -25,12 +25,9 @@ Hello! I'm a passionate **Frontend Developer** with a knack for building interac
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### **Backend és eszközök**
+### **Backend & Tools**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## 📫 Elérhetőségek
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
