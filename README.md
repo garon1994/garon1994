@@ -1,7 +1,3 @@
-# 🌐 Frontend developer from 🇭🇺
-
----
-
 ## 🔧 Készségek és technológiák
 
 ### **Nyelvek**
@@ -28,8 +24,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
 
 ## 📫 Elérhetőségek
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
