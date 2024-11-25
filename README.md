@@ -6,6 +6,7 @@ I am a **Frontend Engineer** with over 5 years of experience working with the te
 ---
 
 ## 🔧 Technologies
+Below are the tools and frameworks I specialize in.
 
 ### **Languages**
 <p>
