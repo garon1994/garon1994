@@ -1,9 +1,4 @@
-
-
-<p align="center">
-      Frontend developer from
-    <img width="200" src="https://img.icons8.com/?size=40&id=15535&format=png&color=000000" alt="Material Bread logo">
-</p>
+# 🌐 Frontend developer from ![Magyar Zászló](https://img.icons8.com/?size=40&id=15535&format=png&color=000000) 
 
 ---
 
