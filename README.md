@@ -1,8 +1,7 @@
 <h3 align="center">Frontend developer</h3>
 
 <p align="left">
-<a href="https://codepen.io/gordosaron" target="blank"><img align="center" src="" alt="gordosaron" height="30" width="40" /></a>
-  ![GitHub-Mark-Light](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg#gh-light-mode-only)
+<a href="https://codepen.io/gordosaron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg#gh-light-mode-only" alt="gordosaron" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
