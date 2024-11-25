@@ -1,5 +1,10 @@
 # 🌐 Frontend fejlesztő
 
+## 🌟 About Me
+Hello! I'm a passionate **Frontend Developer** with a knack for building interactive, user-friendly web applications. I thrive on turning complex problems into elegant solutions using modern web technologies. 🚀
+
+---
+
 ## 🔧 Készségek és technológiák
 
 ### **Nyelvek**
