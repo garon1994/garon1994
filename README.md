@@ -1,7 +1,7 @@
 # 🌐 Frontend Developer
 
-## 🌟 About Me
-Hello! I'm a passionate **Frontend Developer** with a knack for building interactive, user-friendly web applications. I thrive on turning complex problems into elegant solutions using modern web technologies. 🚀
+## 🌟 About Me  
+"I am a **Frontend Engineer** with over 5 years of experience working with the technologies listed below." 🚀
 
 ---
 
