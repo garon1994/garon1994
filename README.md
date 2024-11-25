@@ -32,4 +32,4 @@
 ---
 
 ## 📫 Elérhetőségek
-- **CodePen:** [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
+- [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourusername)
